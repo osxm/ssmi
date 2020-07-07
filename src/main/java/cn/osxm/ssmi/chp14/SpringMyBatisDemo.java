@@ -29,12 +29,6 @@ public class SpringMyBatisDemo {
 	 * @param args
 	 */
 
-	/**
-	 * @Title: main
-	 * @Description: TODO
-	 * @param args
-	 */
-
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 
