@@ -1,7 +1,7 @@
 /**
  * @Title: HelloService.java
  * @Package cn.osxm.ssmi.chp2
- * @Description: TODO
+ * @Description: xml中的配置 <bean id="helloService" class="cn.osxm.ssmi.chp2.HelloService" />
  * @author osxm:oscarxueming
  * @date 2018年12月4日 上午6:54:00
  * @version V1.0

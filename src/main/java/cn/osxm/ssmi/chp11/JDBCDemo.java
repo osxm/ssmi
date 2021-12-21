@@ -8,6 +8,12 @@ import java.sql.SQLException;
 
 public class JDBCDemo {
 
+	/**
+	 * 本示例运行前，请参照教程安装MySQL并根据 sql/ssmi.sql文件创建数据库和相关表。
+	 * @param args
+	 * @throws SQLException
+	 * @throws ClassNotFoundException
+	 */
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
 		// 1. 定义数据库连接参数
